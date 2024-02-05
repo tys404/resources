@@ -34,6 +34,8 @@ UDEMY\
 DNA - Droga Nowoczesnego Architekta\
 [Agenda](https://droganowoczesnegoarchitekta.pl/agenda.html) | [landing page](https://droganowoczesnegoarchitekta.pl/) | [course](https://edu.devstyle.pl/products/droga-nowoczesnego-architekta)
 
+HTML 5 templates | [HTML5 up](https://html5up.net/)
+
 # Software Developments - short form
 Single articles, videos etc.
 
