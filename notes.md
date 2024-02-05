@@ -43,10 +43,11 @@ Kevin Powel | youtube | [Responsive layout practice for beginners](https://www.y
 
 Kunal Tandon| article | [IEnumerable vs ICollection vs IList vs IQueryable](https://medium.com/developers-arena/ienumerable-vs-icollection-vs-ilist-vs-iqueryable-in-c-2101351453db)
 
-CSS-Tricks | articles
-Chris Coyier | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-Chris House | [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-Richard Oliver Bray | [5 Mistakes I Made When Starting My First React Project](https://css-tricks.com/5-mistakes-starting-react/)
+CSS-Tricks | articles\
+Chris Coyier | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\
+Chris House | [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)\
+Temani Afif | [CSS Grid custom shapes](https://css-tricks.com/css-grid-and-custom-shapes-part-1/)\
+Richard Oliver Bray | [5 Mistakes I Made When Starting My First React Project](https://css-tricks.com/5-mistakes-starting-react/)\
 
 # Game Design
 
