@@ -36,14 +36,23 @@ DNA - Droga Nowoczesnego Architekta\
 
 HTML 5 templates | [HTML5 up](https://html5up.net/)
 
+Awwwards - website design awards | https://www.awwwards.com/
+
+Loupe | js engine visualisation | http://latentflip.com/loupe/
+
+
+
 # Software Developments - short form
 Single articles, videos etc.
 
-Ravi Sharma | article | [Top 30 JavaScript Interview Questions and Answers for 2024](https://javascriptcentric.medium.com/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638)
-
-Kevin Powel | youtube | [Responsive layout practice for beginners](https://www.youtube.com/watch?v=JFbxl_VmIx0)
-
+Articles\
+Ravi Sharma | article | [Top 30 JavaScript Interview Questions and Answers for 2024](https://javascriptcentric.medium.com/top-30-javascript-interview-questions-and-answers-for-2024-7f1e2d1d0638)\
 Kunal Tandon| article | [IEnumerable vs ICollection vs IList vs IQueryable](https://medium.com/developers-arena/ienumerable-vs-icollection-vs-ilist-vs-iqueryable-in-c-2101351453db)
+
+YouTube videos\
+Kevin Powel | [Responsive layout practice for beginners](https://www.youtube.com/watch?v=JFbxl_VmIx0)\
+Kevin Powel | [Why is THIS the Perfect Homepage?](https://www.youtube.com/watch?v=WgXU7XAZYmQ&t=328s)\
+Philip Roberrs | [Czym do cholery jest pętla zdarzeń? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 CSS-Tricks | articles\
 Chris Coyier | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\
