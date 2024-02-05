@@ -1,8 +1,6 @@
 # Software Development - long form 
 Whole pages, article series, conferences etc.
 
-## Frontend
-
 dev.js summit | conference - yt channel\
 [React Fiber – silnik po przebudowie – Michał Kowalczyk](https://www.youtube.com/watch?v=fV1rdKXzy-I])\
 [Wszystko co musisz wiedzieć o Web Performance - Filip Rakowski](https://www.youtube.com/watch?v=tVz0M88YCeM)
@@ -40,8 +38,6 @@ Awwwards - website design awards | https://www.awwwards.com/
 
 Loupe | js engine visualisation | http://latentflip.com/loupe/
 
-
-
 # Software Developments - short form
 Single articles, videos etc.
 
@@ -68,6 +64,10 @@ https://docs.google.com/spreadsheets/d/1QhFyPfYSjHv7PjibGrslF3mNW_CIDXWv9o-iQgLb
 [Amit Patel](http://www-cs-students.stanford.edu/~amitp/)\
 Hi! I make interactive visual explanations of math and algorithms, using motivating examples from computer games.\
 https://www.redblobgames.com/
+
+# Tools
+
+FlutterFlow | [Most overpowered way to build mobile apps?](https://www.youtube.com/watch?v=-uN1Q98UMO4)
 
 # Books
 
@@ -112,6 +112,9 @@ Cognitive Neuroscience
 3. "An Introduction to Cognitive Neuroscience" by Arne Öhman and Anders Björklund: This book provides an introduction to the major concepts and methods of cognitive neuroscience, covering topics such as brain organization, perception, attention, memory, and emotion. It is written in a clear and concise style that is accessible to beginners.
 
 4. "Brain and Behavior: A Cognitive Neuroscience Perspective" by David Eagleman and Jonathan Downar: This textbook provides a broad overview of the field of cognitive neuroscience, covering topics such as sensation and perception, attention, consciousness, memory, and social cognition. It is designed for undergraduate and graduate students with a basic background in neuroscience, psychology, or biology.
+
+PASTOR - copywrite framework - [goinswriter.com/better-sales-copy](https://goinswriter.com/better-sales-copy/)
+
 
 
 
