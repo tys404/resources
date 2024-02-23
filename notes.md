@@ -48,7 +48,8 @@ Kunal Tandon| article | [IEnumerable vs ICollection vs IList vs IQueryable](http
 YouTube videos\
 Kevin Powel | [Responsive layout practice for beginners](https://www.youtube.com/watch?v=JFbxl_VmIx0)\
 Kevin Powel | [Why is THIS the Perfect Homepage?](https://www.youtube.com/watch?v=WgXU7XAZYmQ&t=328s)\
-Philip Roberrs | [Czym do cholery jest pętla zdarzeń? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+Philip Roberrs | [Czym do cholery jest pętla zdarzeń? | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)\
+Sławomir Sobótka | [2014 - Sławomir Sobótka - Nie koduj, pisz prozę - lingwistyczne techniki wychodzące poza Clean Code](https://www.youtube.com/watch?v=CKONKZLmMwk)
 
 CSS-Tricks | articles\
 Chris Coyier | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\
