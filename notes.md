@@ -38,6 +38,9 @@ Awwwards - website design awards | https://www.awwwards.com/
 
 Loupe | js engine visualisation | http://latentflip.com/loupe/
 
+React Native\
+Native Directory - community-created components | https://reactnative.directory/
+
 # Software Developments - short form
 Single articles, videos etc.
 
