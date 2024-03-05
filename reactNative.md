@@ -1,2 +1,3 @@
-https://github.com/bevkoski/react-native-android-wear-demo
-https://reactnative.directory/
+- https://github.com/bevkoski/react-native-android-wear-demo
+- https://reactnative.directory/
+- https://developer.android.com/develop
