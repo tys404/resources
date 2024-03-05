@@ -3,5 +3,7 @@
 - https://developer.android.com/develop
 - https://reactnative.dev/showcase
 - https://reactnative.dev/docs/native-modules-android
+- https://github.com/react-native-community/
 - https://github.com/ReactNativeNews/React-Native-Apps
 - https://metrobundler.dev/
+- https://docs.expo.dev/versions/latest/
