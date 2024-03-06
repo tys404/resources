@@ -9,3 +9,4 @@
 - https://docs.expo.dev/versions/latest/
 
 - flexbox playground | https://yogalayout.dev/playground/
+- React Navigation | https://reactnavigation.org/docs/getting-started/
