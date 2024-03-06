@@ -10,3 +10,4 @@
 
 - flexbox playground | https://yogalayout.dev/playground/
 - React Navigation | https://reactnavigation.org/docs/getting-started/
+- accessibility | https://engineering.fb.com/2015/11/23/android/making-react-native-apps-accessible/
