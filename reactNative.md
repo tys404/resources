@@ -14,3 +14,4 @@
 - debugger | https://fbflipper.com/
 - debugger | https://github.com/infinitered/reactotron
 - attaching debugger to VS Code | https://www.youtube.com/watch?v=UE66n7HOIAg
+- E2E | [Detox](https://github.com/wix/detox/) | [Appium](https://appium.io/docs/en/latest/) | [Maestro](https://maestro.mobile.dev/)
