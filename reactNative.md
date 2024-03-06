@@ -1,3 +1,4 @@
+Basics
 - https://github.com/bevkoski/react-native-android-wear-demo
 - https://reactnative.directory/
 - https://developer.android.com/develop
@@ -8,12 +9,16 @@
 - https://metrobundler.dev/
 - https://docs.expo.dev/versions/latest/
 
+UI
 - flexbox playground | https://yogalayout.dev/playground/
 - React Navigation | https://reactnavigation.org/docs/getting-started/
 - accessibility | https://engineering.fb.com/2015/11/23/android/making-react-native-apps-accessible/
+
+Debbug
 - debugger | https://fbflipper.com/
 - debugger | https://github.com/infinitered/reactotron
 - attaching debugger to VS Code | https://www.youtube.com/watch?v=UE66n7HOIAg
 
+Test
 - React Native Testing Library | https://callstack.github.io/react-native-testing-library/
 - E2E | [Detox](https://github.com/wix/detox/) | [Appium](https://appium.io/docs/en/latest/) | [Maestro](https://maestro.mobile.dev/)
