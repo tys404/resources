@@ -13,3 +13,4 @@
 - accessibility | https://engineering.fb.com/2015/11/23/android/making-react-native-apps-accessible/
 - debugger | https://fbflipper.com/
 - debugger | https://github.com/infinitered/reactotron
+- attaching debugger to VS Code | https://www.youtube.com/watch?v=UE66n7HOIAg
