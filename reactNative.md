@@ -22,3 +22,7 @@ Debbug
 Test
 - React Native Testing Library | https://callstack.github.io/react-native-testing-library/
 - E2E | [Detox](https://github.com/wix/detox/) | [Appium](https://appium.io/docs/en/latest/) | [Maestro](https://maestro.mobile.dev/)
+
+Troubleshooting
+- https://stackoverflow.com/questions/73784217/expo-will-not-run-the-app-error-could-not-connect-to-tcp-port-5554-cannot-conn \
+https://stackoverflow.com/questions/72078857/fix-android-studio-react-native-wsl-wont-launch-emulator-with-more-errors/73136231#73136231
