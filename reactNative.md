@@ -29,3 +29,6 @@ https://stackoverflow.com/questions/72078857/fix-android-studio-react-native-wsl
 
 Libraries
 - React Navigation | https://reactnavigation.org/docs
+
+Database
+- Realm | https://www.mongodb.com/docs/realm/sdk/react-native/quick-start/
