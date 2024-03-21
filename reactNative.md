@@ -27,6 +27,7 @@ Troubleshooting
 - https://stackoverflow.com/questions/73784217/expo-will-not-run-the-app-error-could-not-connect-to-tcp-port-5554-cannot-conn \
 - https://stackoverflow.com/questions/72078857/fix-android-studio-react-native-wsl-wont-launch-emulator-with-more-errors/73136231#73136231
 - clear cache | https://docs.expo.dev/troubleshooting/clear-cache-windows/
+- socket timeout exception | https://stackoverflow.com/questions/43593042/network-response-time-out-error-create-react-native-app-expo
 
 Libraries
 - React Navigation | https://reactnavigation.org/docs
