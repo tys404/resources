@@ -20,3 +20,8 @@ January 28th 1986 - the space shuttle Challenger explodes just one minute after 
 
 testy wydajnościowe
 ["How NOT to Measure Latency" by Gil Tene](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+
+
+http://hdrhistogram.org/
+
+https://www.brendangregg.com/flamegraphs.html
