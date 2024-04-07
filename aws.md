@@ -25,3 +25,4 @@ Databases:
 | Graph	| Fraud detection, social networking, recommendation engines	| Amazon Neptune
 | Time series	| Internet of Things (IoT) applications, DevOps, industrial telemetry	| Amazon Timestream
 | Ledger	| Systems of record, supply chain, registrations, banking transactions	| Amazon Ledger Database Services (QLDB)
+
